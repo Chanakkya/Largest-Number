@@ -7,7 +7,7 @@ Created on Mon Dec 11 10:33:44 2023
 
 import streamlit as st
 
-st.title('Largest Of Three Number')
+st.title('Largest Of Three Number\n By Chanakkya S - 21F3003211')
 
 number1 = st.number_input('Enter the first number')
 number2 = st.number_input('Enter the second number')
