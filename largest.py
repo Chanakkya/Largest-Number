@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 11 10:33:44 2023
 
-@author: CHANAKIYA
+@author: CHANAKKYA
 """
 
 import streamlit as st
